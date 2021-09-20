@@ -1,0 +1,48 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-20T10:08:30.502Z",
+        "line": 4,
+        "name": "Create an account",
+        "description": "",
+        "id": "ustory-:-registration-screen;create-an-account",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9190142700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open browser and navigate to reg screen",
+            "match": {
+              "location": "StepDefinations.SD01_NavigateToLoginScreen.open_browser_and_navigate_to_reg_screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113881800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I want to assert that i am on that screen",
+            "match": {
+              "location": "StepDefinations.SD01_NavigateToLoginScreen.i_want_to_assert_that_i_am_on_that_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "UStory : Registration Screen",
+    "description": "",
+    "id": "ustory-:-registration-screen",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/featureFile/FF01_NavigateToLoginScreen.feature",
+    "tags": []
+  }
+]
