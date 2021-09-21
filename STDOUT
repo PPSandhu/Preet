@@ -1,4 +1,4 @@
 
-Scenario: Create an account                      [90m# src/test/java/featureFile/FF01_NavigateToLoginScreen.feature:4[0m
-  [32mGiven [0m[32mOpen browser and navigate to reg screen[0m  [90m# StepDefinations.SD01_NavigateToLoginScreen.open_browser_and_navigate_to_reg_screen()[0m
-  [32mThen [0m[32mI want to assert that i am on that screen[0m [90m# StepDefinations.SD01_NavigateToLoginScreen.i_want_to_assert_that_i_am_on_that_screen()[0m
+@preet
+Scenario: Create an account                     [90m# src/test/java/featureFile/FF01_NavigateToLoginScreen.feature:9[0m
+  [32mGiven [0m[32mOpen browser and navigate to reg screen[0m [90m# StepDefinations.SD01_NavigateToLoginScreen.open_browser_and_navigate_to_reg_screen()[0m

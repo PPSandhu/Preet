@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.764">
-    <testcase classname="UStory : Registration Screen" name="Create an account" time="9.467">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.348">
+    <testcase classname="UStory : Registration Screen" name="Create an account" time="6.126">
         <system-out><![CDATA[Given Open browser and navigate to reg screen...............................passed
-Then I want to assert that i am on that screen..............................passed
 ]]></system-out>
     </testcase>
 </testsuite>
